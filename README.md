@@ -1,4 +1,4 @@
-[![CodeFactor](https://www.codefactor.io/repository/github/steventheperson/brillianceprivate/badge?s=c0a5eaf88c7b034e40602a1af5b270816062ecc1)](https://www.codefactor.io/repository/github/steventheperson/brillianceprivate)
+[![CodeFactor](https://www.codefactor.io/repository/github/steventheperson/brilliance/badge)](https://www.codefactor.io/repository/github/steventheperson/brilliance)
 # 🎨 brilliance
 
 A constructor for extracting colors from images written in Java. Quickly retrieve common and prominent colors from images.
