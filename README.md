@@ -19,7 +19,7 @@ A constructor for extracting colors from images written in Java. Quickly retriev
 ### Usage
 
 ```java
-    // Create the constructor
+    // Create the constructor.
     Brilliance brilliance = new Brilliance()
             // Image to search; String, URL, BufferedImage.
             .image("https://images.unsplash.com/photo-1678285624327-3ec8a48e1609?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8")
